@@ -1,0 +1,16 @@
+ENGLISH VERSION:
+- Step 1: Install module 'react-native-simple-radio-button' to use radio button
+npm install --save react-native-simple-radio-button
+- Step 2: Import component from module 'react-native-simple-radio-button'
+
+import RadioForm, {
+  RadioButton, 
+  RadioButtonInput, 
+  RadioButtonLabel
+} from 'react-native-simple-radio-button';
+
+- Step 3: Add an array contains label-texts
+- Step 4: Custom radio button
+
+---DONE :D---
+---Quang Vi---
